@@ -1,0 +1,1 @@
+C:\Projects\Win10Labs\AdaptiveUI\AdaptiveUI\AdaptiveUI.csproj;x86

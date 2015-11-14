@@ -1,0 +1,1 @@
+C:\Projects\Win10Labs\SimpleNavigation\SimpleNavigation\SimpleNavigation.csproj;x86
